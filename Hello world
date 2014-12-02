@@ -1,0 +1,9 @@
+using System;
+
+class start
+{
+  public void Main()
+  {
+    Console.WriteLine("Hello world");
+  }
+}
